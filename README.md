@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meysam Alishahi
 - 👀 I’m interested in Data Scince and Machine Learning. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<!--- 🌱 I’m currently learning some topoics in Bayesian Statictics!
+- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: meysam.alishahi @ gmail ....
 
 <!---
